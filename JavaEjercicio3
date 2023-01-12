@@ -1,0 +1,13 @@
+package com.example.estructurascontrol;
+
+public class Entregable3 {
+
+    public static void main(String[] args) {
+        String[] nombres = {"Carlos", "Male", "Andrea", "Meche", "Sebas"};
+
+        for (int i = 0; i < nombres.length; i++){
+            System.out.print(nombres[i] + " ");
+                }
+
+        }
+}
